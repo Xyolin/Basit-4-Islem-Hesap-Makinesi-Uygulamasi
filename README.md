@@ -1,6 +1,6 @@
 ### Kotlin İle 4 İşlem Hesap Makinesi Uygulaması
 
-![Alt text](relative/path/to/ornek_screenshot.png?raw=true "Örnek ScreenShot")
+
 
 <!--
 **Xyolin/xyolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
